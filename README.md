@@ -1,2 +1,1 @@
-# hello-world
-the first file the Git
+very nice to meet you
